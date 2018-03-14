@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Basics\13.ExamPreperationOne\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\13.ExamPreperationOne\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\13.ExamPreperationOne\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\13.ExamPreperationOne\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\13.ExamPreperationOne\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Basics\13.ExamPreperationOne\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\13.ExamPreperationOne\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\13.ExamPreperationOne\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\13.ExamPreperationOne\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Basics\13.ExamPreperationOne\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\13.ExamPreperationOne\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.pdb
